@@ -2,6 +2,7 @@
 
 This file is here to signify me learning the ins and outs of Github with the tutorial learnt from Gwen faraday
 The contents for Learning Git well are:
+
 Introduction
 
 ⌨️ (1:10) What is git?
@@ -46,4 +47,6 @@ Introduction
 
 ⌨️ (1:01:50) Forking in git
 
-⌨️ (1:07:55) Ending
+⌨️ (1:07:55) End
+
+This tutorial helped me get my repo cloned locally, pull changes from my Github, edit the files then push changes.
