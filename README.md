@@ -50,3 +50,8 @@ Introduction
 ⌨️ (1:07:55) End
 
 This tutorial helped me get my repo cloned locally, pull changes from my Github, edit the files then push changes.
+
+Some new changes, creating a feature branch using the Git Checkout -b "feature name" command.
+
+Use Git Branch to view available branches.
+
